@@ -4,7 +4,7 @@ Instagram bot that tells you name of user whom you follow but they are not follo
 ### Requirements
 - Python 3
 - Selenium
-- WebDriver for Chrome
+- WebDriver for your browser
 
 ### Installation
 - #### Install Python by downloading it from [Python](https://www.python.org/downloads/ "Python")
@@ -14,6 +14,7 @@ Instagram bot that tells you name of user whom you follow but they are not follo
   - `<Edge>` : <https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/>
   - `<Firefox>` : <https://github.com/mozilla/geckodriver/releases>
   - `<Safari>` : <https://webkit.org/blog/6900/webdriver-support-in-safari-10/>
+- keep this file in same directory where the **instabot.py** is in.
 
 ### How to run
 - set username and password variable to your instagram **user name** and **password** at line number **62 and 63** respectively and that's all 😁.
