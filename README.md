@@ -2,6 +2,7 @@
 Instagram bot that tells you name of user whom you follow but they are not following you.
 
 ### Requirements
+-------------------
 - Python 3
 - Selenium
 - WebDriver for your browser
