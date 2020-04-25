@@ -19,6 +19,9 @@ class InstaBot:
             .send_keys(pw)
         self.driver.find_element_by_xpath('//button[@type="submit"]')\
             .click()
+        """ sleep(40)
+        self.driver.find_element_by_xpath('//button[@type="button"]')\
+            .click() """
         sleep(10)
         WebDriverWait(self.driver, 10).until(EC.element_to_be_clickable((By.XPATH, "//button[@class='aOOlW   HoLwm ']"))).click()
         
