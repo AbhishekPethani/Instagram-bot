@@ -17,4 +17,10 @@ Instagram bot that tells you name of user whom you follow but they are not follo
 
 ### How to run
 - set username and password variable to your instagram **user name** and **password** at line number **62 and 63** respectively and that's all 😁.
+
+
+### Note: 
+Instagram changes their front end frequently so this code may won't work.
+
+If you have enabled **two factor authentication** then uncomment the line number **22 to 24** and then run the script. Execution sleeps for 40 seconds within that add the authentication code. After 40 seconds it will proceed further.     
  
