@@ -1,8 +1,9 @@
 # Instagram-bot
 Instagram bot that tells you name of user whom you follow but they are not following you.
 
-### Requirements
--------------------
+Requirements
+-------------
+
 - Python 3
 - Selenium
 - WebDriver for your browser
@@ -25,4 +26,6 @@ Instagram bot that tells you name of user whom you follow but they are not follo
 Instagram changes their front end frequently so this code may won't work.
 
 If you have enabled **two factor authentication** then uncomment the line number **22 to 24** and then run the script. Execution sleeps for 40 seconds within that add the authentication code. After 40 seconds it will proceed further.     
- 
+
+H2 Header (Underline)
+-------------
